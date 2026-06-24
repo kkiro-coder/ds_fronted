@@ -1,0 +1,1 @@
+import{c0 as e,a$ as t,w as s,c as o}from"./vendor-EiPTkOd7.js";function n(){const a=e();return t.jsx(s,{status:"403",title:"403",subTitle:"抱歉，您没有访问此页面的权限",extra:t.jsx(o,{type:"primary",onClick:()=>a("/dashboard/workplace"),children:"返回工作台"})})}export{n as default};
