@@ -1,1 +1,0 @@
-import{c0 as e,a$ as t,w as s,c as o}from"./vendor-EiPTkOd7.js";function r(){const a=e();return t.jsx(s,{status:"404",title:"404",subTitle:"抱歉，页面不存在",extra:t.jsx(o,{type:"primary",onClick:()=>a("/dashboard/workplace"),children:"返回工作台"})})}export{r as default};
